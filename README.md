@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently a member of Team 28 on in HackYourFuture Copenhagen.
+- 🔭 I’m currently a member of Team 28 in HackYourFuture Copenhagen.
 - 🌱 I’m currently learning Frontend Development.
 - 👯 I’m looking to collaborate on projects aimed at enhancing interactive user learning experiences.
 - 💬 Ask me about my favorite coding challenges. 
